@@ -1,0 +1,14 @@
+.alarm-item {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .alarm-time {
+        margin: 0;
+    }
+
+    .alarm-text {
+        color: rgba($color: #000000, $alpha: .5);
+    }
+}
